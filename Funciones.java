@@ -10,4 +10,7 @@ public class Funciones{
         float resultado = Float.parseFloat(txt1.getText())*Float.parseFloat(txt2.getText())/(float)100.0;
         return resultado;
     }
+    public float calcularIvaReducido(){
+        return 0.0f;
+    }
 }
